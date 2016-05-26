@@ -3,12 +3,14 @@
 
 
 struct no {
-  struct no* esq;
-  struct no* dir;
+  struct no *esq;
+  struct no *dir;
   int info;
 };
 
-typedef struct no arvorebin;
+typedef struct no arvbin;
+
+
 
 int main(int argc, char const *argv[]) {
 
