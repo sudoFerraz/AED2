@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1440687209 source:/home/jvpsousa/aed2/lista-linear/ll.c
+	"ll.h"
+
+1440685448 /home/jvpsousa/aed2/lista-linear/ll.h
+	<stdio.h>
+	<stdlib.h>
+
+1440686601 source:/home/jvpsousa/aed2/lista-linear/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ll.h"
+
+1440686601 source:/home/jvpsousa/UFU/aed2/lista-linear/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ll.h"
+
+1441118309 /home/jvpsousa/UFU/aed2/lista-linear/ll.h
+	<stdio.h>
+	<stdlib.h>
+

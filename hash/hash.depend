@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1449093941 source:/home/jvpsousa/UFU/aed2/hash/main.c
+	"hash.h"
+
+1449525373 /home/jvpsousa/UFU/aed2/hash/hash.h
+	<stdio.h>
+	<stdlib.h>
+

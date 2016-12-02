@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1442974006 source:/home/jvpsousa/UFU/aed2/trabalho01/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

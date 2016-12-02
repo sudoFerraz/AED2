@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1443619721 source:c:\users\i9day\desktop\arvorepesquisa\abp.c
+	<stdio.h>
+	"abp.h"
+
+1443619721 
+
+1443619455 c:\users\i9day\desktop\arvorepesquisa\abp.h
+
+1443893918 source:/home/jvpsousa/UFU/aed2/arvorepesquisa/abp.c
+	<stdio.h>
+	"abp.h"
+
+1443620060 /home/jvpsousa/UFU/aed2/arvorepesquisa/abp.h
+

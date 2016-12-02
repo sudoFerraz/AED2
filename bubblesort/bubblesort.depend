@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1441805580 source:/home/jvpsousa/UFU/aed2/bubblesort/main.c
+	<stdio.h>
+	<stdlib.h>
+

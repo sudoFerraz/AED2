@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1447243781 source:c:\users\i9day\desktop\grafos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"grafo.h"
+
+1447243278 
+
+1447244204 source:c:\users\i9day\desktop\grafos\grafo.c
+	"grafo.h"
+
+1447243278 c:\users\i9day\desktop\grafos\grafo.h
+	<stdio.h>
+	<stdlib.h>
+
+1447521255 source:/home/jvpsousa/UFU/aed2/grafos-enviar/grafos/grafo.c
+	"grafo.h"
+
+1447521805 /home/jvpsousa/UFU/aed2/grafos-enviar/grafos/grafo.h
+	<stdio.h>
+	<stdlib.h>
+
+1447521912 source:/home/jvpsousa/UFU/aed2/grafos-enviar/grafos/main.c
+	<stdio.h>
+	<stdlib.h>
+	"grafo.h"
+
+1450187033 source:/home/jvpsousa/UFU/aed2/trabalho-final/grafo.c
+	"grafo.h"
+
+1450186861 /home/jvpsousa/UFU/aed2/trabalho-final/grafo.h
+	<stdio.h>
+	<stdlib.h>
+
+1450186974 source:/home/jvpsousa/UFU/aed2/trabalho-final/main.c
+	<stdio.h>
+	<stdlib.h>
+	"grafo.h"
+

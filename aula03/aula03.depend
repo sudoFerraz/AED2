@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1441200085 source:/home/jvpsousa/UFU/aed2/aula03/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
